@@ -41,6 +41,10 @@ This project demonstrates how to automate user lifecycle management using Micros
 
 ## Screenshots
 
+![Entra ID Setup](https://github.com/TGKDre/iam-zero-touch-automation/blob/38ab5356b558c895c4de96ece161eb94a6f1638b/EntraID%20User%20Page.JPG)
+![Entra ID Setup](https://github.com/TGKDre/iam-zero-touch-automation/blob/38ab5356b558c895c4de96ece161eb94a6f1638b/EntraID%20Groups%20Page.JPG)
+*Entra ID Users and Groups page for simulated workplace environment*
+
 ![Onboarding Flow](https://github.com/TGKDre/iam-zero-touch-automation/blob/1c4cf2e67e75fac0666a6bdeb9599297e948ae75/Rocksteady%20Industries%20Power%20Automate%20Flow%201.JPG) 
 ![Onboarding Flow](https://github.com/TGKDre/iam-zero-touch-automation/blob/1c4cf2e67e75fac0666a6bdeb9599297e948ae75/Send%20Welcome%20Email%20Step%201.JPG) 
 ![Onboarding Flow](https://github.com/TGKDre/iam-zero-touch-automation/blob/1c4cf2e67e75fac0666a6bdeb9599297e948ae75/Basic%20SWE%20Flow%201.JPG)
