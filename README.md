@@ -48,7 +48,10 @@ This project demonstrates how to automate user lifecycle management using Micros
 ![Onboarding Flow](https://github.com/TGKDre/iam-zero-touch-automation/blob/1c4cf2e67e75fac0666a6bdeb9599297e948ae75/Basic%20SWE%20Flow%203.JPG)
 *Manual trigger and email action for onboarding*
 
-![Offboarding Compose Step](screenshots/offboarding-compose.png)  
+![Offboarding Flow](https://github.com/TGKDre/iam-zero-touch-automation/blob/1c4cf2e67e75fac0666a6bdeb9599297e948ae75/Rocksteady%20Industries%20Power%20Automate%20Flow%201.JPG)
+![Offboarding Flow](https://github.com/TGKDre/iam-zero-touch-automation/blob/91b2cd76947fcb1ca3d188991930d179b0aaa879/Offboard%201.JPG)
+![Offboarding Flow](https://github.com/TGKDre/iam-zero-touch-automation/blob/91b2cd76947fcb1ca3d188991930d179b0aaa879/Offboard%202.JPG)
+![Offboarding Flow](https://github.com/TGKDre/iam-zero-touch-automation/blob/91b2cd76947fcb1ca3d188991930d179b0aaa879/Offboard%203.JPG)
 *Compose action simulating offboarding email/logging*
 
 ---
